@@ -14,3 +14,7 @@ data.h5: Contains the datasets used for analysis.
 PA_LDV_data_analysis: Jupyter notebook documenting the analysis process and results.
 images/Generated images and figures illustrating the results.
 
+## Citation
+For more details on the methodology and findings, please refer to the original paper:
+
+Dieussaert, E., Baets, R., Jans, H., Rottenberg, X., Li, Y. (2024). Non-contact photoacoustic imaging with a silicon photonics-based Laser Doppler Vibrometer. DOI:10.48550/arXiv.2402.10966.
